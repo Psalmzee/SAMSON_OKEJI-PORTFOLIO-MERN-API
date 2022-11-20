@@ -27,7 +27,7 @@ exports.getBlog = async (req, res) => {
     if (!blog) {
         return res.status(404).json({ 
           status: false, 
-          order: null,
+          blog: null,
           message: 'Blog not Found!' })
     }
 
