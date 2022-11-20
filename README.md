@@ -57,7 +57,7 @@ npm install
 
 ```sh
 
-npm start
+npm start:dev
 ---
 
 ## Usage
