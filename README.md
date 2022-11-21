@@ -1,4 +1,4 @@
-# SAMSON_OKEJI-PORTFOLIO-MERN-API
+# SAMSONOKEJI-PORTFOLIO-MERN-API
 ### Postman link: `https://api.postman.com/collections/20588283-4c307afd-9bfb-4b28-b828-603bd9ed0946?access_key=PMAT-01GJ9M2C19J7JHGN6VNHS0NH1X`
 
 <!-- Project Shields -->
